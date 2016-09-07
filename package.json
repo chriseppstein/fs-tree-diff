@@ -18,6 +18,7 @@
   "dependencies": {
     "fast-ordered-set": "^1.0.2",
     "heimdalljs-logger": "^0.1.7",
+    "matcher-collection": "^1.0.4",
     "md5hex": "^1.0.0"
   },
   "devDependencies": {
