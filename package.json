@@ -29,7 +29,7 @@
     "chai": "^3.3.0",
     "fs-extra": "^0.30.0",
     "md5sum": "^0.9.0",
-    "mocha": "^2.3.3",
+    "mocha": "mochajs/mocha#3ff8cb69c2673d0bb7fe33d5bbd58fe12474c781",
     "promise-map-series": "^0.2.3",
     "rsvp": "^3.2.1",
     "walk-sync": "^0.3.1"
